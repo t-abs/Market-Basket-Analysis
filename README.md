@@ -10,6 +10,9 @@ This Streamlit app provides an interactive interface for performing market baske
 
 By focusing on these areas, Market Basket Analysis helps businesses improve sales, enhance customer satisfaction, and make data-driven decisions about product placement, promotions, and inventory management.
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e538bcb7-1018-4113-9db0-306c514241f5">
+
+
 
 
 
